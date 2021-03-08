@@ -32,3 +32,7 @@ If you find yourself unable to import your repository due to the presence of fil
   4. Run `git add -A`
   5. Run `git commit`
   6. Run `git push`
+
+# Installation
+
+Work with your Workgrid Solutions Architect if you would like to install this webhook app in your ServiceNow instance.
